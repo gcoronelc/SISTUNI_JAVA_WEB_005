@@ -26,6 +26,8 @@
 - ResultSet to List: http://goo.gl/OzHhjA
 - Pool de conexiones con Tomcat: http://goo.gl/ZdQQv0
 - Pool de conexiones con GlassFish: http://goo.gl/pyAt8d
+- Separata de Java Web: Pronto
+
 
 # JAVA WEB
 
