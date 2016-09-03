@@ -1,0 +1,20 @@
+==============================
+Java Web
+==============================
+Profesor: Gustavo Coronel
+Horario: Sab. 8 a 14 Horas
+Duración: 24 Horas
+Sesiones: 4
+
+==============================
+Requisitos
+==============================
+- HTML
+- CSS
+- JavaScript
+- JQuery (Básico)
+- JDBC
+
+
+
+
