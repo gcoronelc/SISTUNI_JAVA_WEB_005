@@ -5,3 +5,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Clase01/HolaMundo/nbproject/private/
+/Clase01/HolaMundo/build/
+/Clase01/SumarApp/nbproject/private/
+/Clase01/SumarApp/build/
