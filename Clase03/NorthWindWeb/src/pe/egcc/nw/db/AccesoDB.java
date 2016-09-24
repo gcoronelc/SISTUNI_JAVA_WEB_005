@@ -14,7 +14,7 @@ public final class AccesoDB {
     try {
       // Datos SQL Server - Driver de Microsoft
       String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
-      String url = "jdbc:sqlserver://localhost:1433;databaseName=northwind";
+      String url = "jdbc:sqlserver://172.17.1.45:1433;databaseName=northwind";
       String user = "gustavo";
       String pass = "sql";
       // Driver JTDS

@@ -15,3 +15,42 @@ h1{
 }
 
 
+.egcc_page{
+	background-color: #A4A4A4;
+	width: 900px;
+	margin: 10px auto;
+	padding: 10px;
+}
+
+.egcc_header{
+  background-color: white;
+  color:#424242;
+  width: 880px;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.egcc_menu{
+  background-color: #E6E6E6;
+  color:#424242;
+  width: 880px;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.egcc_content{
+  background-color: white;
+  color:#424242;
+  width: 880px;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.egcc_footer{
+  background-color: #084B8A;
+  color: white;
+  width: 880px;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 14px;
+}
