@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+
+body {
+	background: #0A2229;
+	font-size: 12px;
+	font-family: Arial;
+	color: #E6E6E6;
+}
+
+h1{
+	color: #0A2229;
+	font-size: 18px;
+	border-bottom: solid #0A2229 medium;
+}
+
+
